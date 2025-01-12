@@ -11,6 +11,8 @@ em.saluta("luca")
 x=em.persona1["nome"]
 em.saluta(x)
 
+print(em.__prova)
+
 
 #platform è un modulo di py
 y = platform.system()
